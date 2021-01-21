@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyLoginn</string>
+    <string name="logout">Logout</string>
+    <string name="update_pass">Perbarui Password</string>
+    <string name="email_hint">Email Anda</string>
+    <string name="get_password_link">Dapatkan link password</string>
+    <string name="back">Kembali</string>
+    <string name="password_hint">Password Anda</string>
+    <string name="login_btn">Login</string>
+    <string name="signup_btn">Daftar</string>
+    <string name="new_password">Password baru</string>
+</resources>

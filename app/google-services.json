@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610071348",
+    "project_id": "myloginn-28eb8",
+    "storage_bucket": "myloginn-28eb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610071348:android:faab9a1e7acc1a3ec7eb61",
+        "android_client_info": {
+          "package_name": "com.pruzth.myloginn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610071348-b5ujrd57s1f8dv2s50c8rajcio209qlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlq3qvOmVU4a2Snkoh2Rnc2qbpuOls-y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610071348-b5ujrd57s1f8dv2s50c8rajcio209qlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
